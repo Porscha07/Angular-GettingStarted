@@ -1,4 +1,4 @@
-import { Component } from "@angular/core"; // need to import the component decorator before we can use it.
+import { Component } from '@angular/core'; // need to import the component decorator before we can use it.
 
 @Component({
   selector: 'pm-root',
